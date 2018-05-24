@@ -1,0 +1,23 @@
+FIRST,LAST,NICKNAME,PHONE,EMAIL,REMOTE (yes | situation note),ROLE/NOTES,SLACK
+1,Wahid,Chaar,Eddy ,(972)-876-0640,wahidfelchaar@gmail.com,"(Yes | Currently in California, returning by 30th)",TensorFlow Team,Wahid
+2,Poonam ,Jagtiani,Poonam,(469)-929-3241,pjagtiani123@gmail.com,No,TensorFlow Team,Poonam
+3,Jithin,Thomas,Thomas,(469)-583-9046,thomasjtt.2@gmail.com,No,Containers,Jithin
+4,Isai,Rojas,Isai,(817)-937-2902,isai@superiordatascience.com,No,(CFO),isai
+5,Maheedar,Subramanian,Maheedar,(469)-386-2836,maheedar.s@gmail.com,"(Yes | Currently in India, Returning by 28th)",Tensorflow Team,Maheedar
+6,Mehul,Patel,Mehul,(469)-975-1003,mgpatel1811@gmail.com,(Yes | Currently in India),TensorFlow Team,Mehul Patel
+7,Brandon,Bearden,Brandon,(214)-842-2030,brandonbeardene@gmail.com,No,ScrumMaster: TensorFlow Team,Brandon Emsley Bearden
+8,Carlos ,Sanchez ,Latin lava ,(469)-556-4955,Cas140630@gmail.com,(Yes | Currently in Florida),ScrumMaster: Angular Team,Carlos Sanchez
+9,Shawn,Mathew,Shawn,(469)-471-2894,shawnmathew@ymail.com,No,TensorFlow Team,Shawn Mathew
+10,Jobin,Thomas,Jobin,(214)-518-9248,jobin@superiordatascience.com,No,(CEO),jobin.thomas
+11,John,Pantzer,John,(903)-720-4795,johnskytalker@gmail.com,(Yes | available as a sales advisor),Sales Advisor,Skywirelynx
+12,Srujana,Mereddy,Srujana,(573) 647-6319,srujana.mereddy@gmail.com,N/A,CURRENTLY INACTIVE,Srujana Mereddy
+13,Steven,Lamar,Steven,(214)-780-8583,lamaratom24@gmail.com,No,Angular Team,Steven_Disciples
+14,Muhammad,Usman,Muhammad,92-(300)-442-0219,chusman17@gmail.com,(Yes | Currently in Pakistan),,Usman
+15,Amulya,Madhari,Amulya,(760) 442-4336,amulya.madhari@gmail.com,,,amulya.madhari
+16,Mauricio,Cordoba,Mauricio,(407)-202-8771,maucricardo@outlook.com,No,,Macori
+17,Diba,Mondal,Diba,91-(954)-792-3502,sunweb2016@gmail.com,(yes | currently in India),,dibsweb
+18,Preston,Espinosa,Preston,(469)-740-9819,preston.esp@outlook.com,(Yes | ?),,preston_00
+19,Shalin,Amin,Shalin,,saa161030@utdallas.edu,N/A,CURRENTLY INACTIVE,Shalin
+20,Deepesh,Rathore,Deepesh,,Deepeshrathore0734@gmail.com,N/A,CURRENTLY INACTIVE,Deepesh
+21,Tarun,Bakshi,Tarun,(405)-589-6541,bakshitarun@outlook.com,"(Yes | Currently in Stillwater, Oklahoma)",Angular Team,tarun
+22,Saul,Cerrillo,Saul,(210)-773-2905,csaulc@gmail.com,No,,saul
