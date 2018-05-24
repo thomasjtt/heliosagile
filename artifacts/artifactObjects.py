@@ -4,7 +4,7 @@ class userstory:
 		self.goal = goal
 		self.why = why
 
-	def userstoryprinter():
+	def userstoryprinter(self):
 		print 'As a {user}, I want {goal}, so that {why}'.format(user= self.user, goal=self.goal, why=self.why)
 class productBacklog:
 	pass
