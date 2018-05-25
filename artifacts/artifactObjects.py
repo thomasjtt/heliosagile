@@ -17,3 +17,5 @@ class sprint:
 
 class burndown:
 	pass
+
+# mongoimport -d agile -c users --type csv --file contactInfo.csv --headerline
