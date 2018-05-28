@@ -1,0 +1,34 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+  <meta charset="utf-8">
+  <style> /* set the CSS */
+    body { font: 12px Arial;}
+    path {
+      stroke-width: 2;
+      fill: none;
+    }
+    .axis path, .axis line {
+      fill: none;
+      stroke: grey;
+      stroke-width: 1;
+      shape-rendering: crispEdges;
+    }
+    .area {
+      fill: #F0F8FF;
+      stroke-width: 0;
+    }
+  </style>
+
+  <div id='graphDiv'></div>
+  <script type="text/javascript">
+      var graphData = {{ data.chart_data | safe }}
+  </script>
+  <script src="http://d3js.org/d3.v3.min.js"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='ohlc.js')}}"></script>
+
+
+
+{% endblock %}
