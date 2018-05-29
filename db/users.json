@@ -1,0 +1,287 @@
+[{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c422"
+	},
+	"FIRST": "Jithin",
+	"LAST": "Thomas",
+	"NICKNAME": "Thomas",
+	"PHONE": "(469)-583-9046",
+	"EMAIL": "thomasjtt.2@gmail.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "Containers",
+	"SLACK": "Jithin"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c423"
+	},
+	"FIRST": "Wahid",
+	"LAST": "Chaar",
+	"NICKNAME": "Eddy",
+	"PHONE": "(972)-876-0640",
+	"EMAIL": "wahidfelchaar@gmail.com",
+	"REMOTE (yes | situation note)": "(Yes | Currently in California, returning by 30th)",
+	"ROLE/NOTES": "TensorFlow Team",
+	"SLACK": "Wahid"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c424"
+	},
+	"FIRST": "Poonam",
+	"LAST": "Jagtiani",
+	"NICKNAME": "Poonam",
+	"PHONE": "(469)-929-3241",
+	"EMAIL": "pjagtiani123@gmail.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "TensorFlow Team",
+	"SLACK": "Poonam"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c425"
+	},
+	"FIRST": "Mehul",
+	"LAST": "Patel",
+	"NICKNAME": "Mehul",
+	"PHONE": "(469)-975-1003",
+	"EMAIL": "mgpatel1811@gmail.com",
+	"REMOTE (yes | situation note)": "(Yes | Currently in India)",
+	"ROLE/NOTES": "TensorFlow Team",
+	"SLACK": "Mehul Patel"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c426"
+	},
+	"FIRST": "Maheedar",
+	"LAST": "Subramanian",
+	"NICKNAME": "Maheedar",
+	"PHONE": "(469)-386-2836",
+	"EMAIL": "maheedar.s@gmail.com",
+	"REMOTE (yes | situation note)": "(Yes | Currently in India, Returning by 28th)",
+	"ROLE/NOTES": "Tensorflow Team",
+	"SLACK": "Maheedar"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c427"
+	},
+	"FIRST": "Shawn",
+	"LAST": "Mathew",
+	"NICKNAME": "Shawn",
+	"PHONE": "(469)-471-2894",
+	"EMAIL": "shawnmathew@ymail.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "TensorFlow Team",
+	"SLACK": "Shawn Mathew"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c428"
+	},
+	"FIRST": "Carlos",
+	"LAST": "Sanchez",
+	"NICKNAME": "Latin lava",
+	"PHONE": "(469)-556-4955",
+	"EMAIL": "Cas140630@gmail.com",
+	"REMOTE (yes | situation note)": "(Yes | Currently in Florida)",
+	"ROLE/NOTES": "ScrumMaster: Angular Team",
+	"SLACK": "Carlos Sanchez"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c429"
+	},
+	"FIRST": "John",
+	"LAST": "Pantzer",
+	"NICKNAME": "John",
+	"PHONE": "(903)-720-4795",
+	"EMAIL": "johnskytalker@gmail.com",
+	"REMOTE (yes | situation note)": "(Yes | available as a sales advisor)",
+	"ROLE/NOTES": "Sales Advisor",
+	"SLACK": "Skywirelynx"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c42a"
+	},
+	"FIRST": "Jobin",
+	"LAST": "Thomas",
+	"NICKNAME": "Jobin",
+	"PHONE": "(214)-518-9248",
+	"EMAIL": "jobin@superiordatascience.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "(CEO)",
+	"SLACK": "jobin.thomas"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c42b"
+	},
+	"FIRST": "Brandon",
+	"LAST": "Bearden",
+	"NICKNAME": "Brandon",
+	"PHONE": "(214)-842-2030",
+	"EMAIL": "brandonbeardene@gmail.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "ScrumMaster: TensorFlow Team",
+	"SLACK": "Brandon Emsley Bearden"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c42c"
+	},
+	"FIRST": "Srujana",
+	"LAST": "Mereddy",
+	"NICKNAME": "Srujana",
+	"PHONE": "(573) 647-6319",
+	"EMAIL": "srujana.mereddy@gmail.com",
+	"REMOTE (yes | situation note)": "N/A",
+	"ROLE/NOTES": "CURRENTLY INACTIVE",
+	"SLACK": "Srujana Mereddy"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c42d"
+	},
+	"FIRST": "Muhammad",
+	"LAST": "Usman",
+	"NICKNAME": "Muhammad",
+	"PHONE": "92-(300)-442-0219",
+	"EMAIL": "chusman17@gmail.com",
+	"REMOTE (yes | situation note)": "(Yes | Currently in Pakistan)",
+	"ROLE/NOTES": "",
+	"SLACK": "Usman"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c42e"
+	},
+	"FIRST": "teven",
+	"LAST": "Lamar",
+	"NICKNAME": "Steven",
+	"PHONE": "(214)-780-8583",
+	"EMAIL": "lamaratom24@gmail.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "Angular Team",
+	"SLACK": "Steven_Disciples"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c42f"
+	},
+	"FIRST": "Amulya",
+	"LAST": "Madhari",
+	"NICKNAME": "Amulya",
+	"PHONE": "(760) 442-4336",
+	"EMAIL": "amulya.madhari@gmail.com",
+	"REMOTE (yes | situation note)": "",
+	"ROLE/NOTES": "",
+	"SLACK": "amulya.madhari"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c430"
+	},
+	"FIRST": "Isai",
+	"LAST": "Rojas",
+	"NICKNAME": "Isai",
+	"PHONE": "(817)-937-2902",
+	"EMAIL": "isai@superiordatascience.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "(CFO)",
+	"SLACK": "isai"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c431"
+	},
+	"FIRST": "Diba",
+	"LAST": "Mondal",
+	"NICKNAME": "Diba",
+	"PHONE": "91-(954)-792-3502",
+	"EMAIL": "sunweb2016@gmail.com",
+	"REMOTE (yes | situation note)": "(yes | currently in India)",
+	"ROLE/NOTES": "",
+	"SLACK": "dibsweb"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c432"
+	},
+	"FIRST": "Mauricio",
+	"LAST": "Cordoba",
+	"NICKNAME": "Mauricio",
+	"PHONE": "(407)-202-8771",
+	"EMAIL": "maucricardo@outlook.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "",
+	"SLACK": "Macori"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c433"
+	},
+	"FIRST": "Preston",
+	"LAST": "Espinosa",
+	"NICKNAME": "Preston",
+	"PHONE": "(469)-740-9819",
+	"EMAIL": "preston.esp@outlook.com",
+	"REMOTE (yes | situation note)": "(Yes | ?)",
+	"ROLE/NOTES": "",
+	"SLACK": "preston_00"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c434"
+	},
+	"FIRST": "Shalin",
+	"LAST": "Amin",
+	"NICKNAME": "Shalin",
+	"PHONE": "",
+	"EMAIL": "saa161030@utdallas.edu",
+	"REMOTE (yes | situation note)": "N/A",
+	"ROLE/NOTES": "CURRENTLY INACTIVE",
+	"SLACK": "Shalin"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c435"
+	},
+	"FIRST": "Deepesh",
+	"LAST": "Rathore",
+	"NICKNAME": "Deepesh",
+	"PHONE": "",
+	"EMAIL": "Deepeshrathore0734@gmail.com",
+	"REMOTE (yes | situation note)": "N/A",
+	"ROLE/NOTES": "CURRENTLY INACTIVE",
+	"SLACK": "Deepesh"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c436"
+	},
+	"FIRST": "Saul",
+	"LAST": "Cerrillo",
+	"NICKNAME": "Saul",
+	"PHONE": "(210)-773-2905",
+	"EMAIL": "csaulc@gmail.com",
+	"REMOTE (yes | situation note)": "No",
+	"ROLE/NOTES": "",
+	"SLACK": "saul"
+},
+{
+	"_id": {
+		"$oid": "5b075ec7a2c749f56a96c437"
+	},
+	"FIRST": "Tarun",
+	"LAST": "Bakshi",
+	"NICKNAME": "Tarun",
+	"PHONE": "(405)-589-6541",
+	"EMAIL": "bakshitarun@outlook.com",
+	"REMOTE (yes | situation note)": "(Yes | Currently in Stillwater, Oklahoma)",
+	"ROLE/NOTES": "Angular Team",
+	"SLACK": "tarun"
+}]
+
