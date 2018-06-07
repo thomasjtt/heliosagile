@@ -1,9 +1,8 @@
 
 # heliosagile
-
- poonam jagtiani
-
-
+Jobin Thomas
+Poonam Jagtiani
 Shawn Mathew
+Wahid El Chaar
 Brandon Beardon
 Jithin Thomas
