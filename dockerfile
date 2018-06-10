@@ -9,8 +9,8 @@ WORKDIR /app
 
 RUN pip install -r requirements.txt
 
-ENV FLASK_APP=app.py
 
 EXPOSE 5000
 
-ENTRYPOINT ["gunicorn", "-b", "0.0.0.0:5000", "-v", "4"]
+ENTRYPOINT ["python"]
+CMD [app.py]
