@@ -9,6 +9,8 @@ db = client.agile
 
 
 app = Flask(__name__)
+app.debug = True
+
 
 @app.route("/")
 def index():
@@ -51,6 +53,6 @@ def d3plot():
 	return render_template("d3plotExample.html", data=data)
 
 if __name__ == "__main__":
-	app.run(debug=True)
+	app.run(host='0.0.0.0')
 
 # mongoimport -d agile -c d3example --type csv --file data.csv --headerline
