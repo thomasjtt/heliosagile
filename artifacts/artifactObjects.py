@@ -1,4 +1,4 @@
-lass productBacklog:
+class productBacklog:
 	def __init__(self,AgileAddressBook=None,sprintArchive=None,PBForms=None, taskArchive = None):
 		self.AgileAddressBook = AgileAddressBook
 		self.sprintArchive = sprintArchive
