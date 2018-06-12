@@ -24,14 +24,12 @@ class sprint:
 
 class archSprint:
 
-	self.sprintArchive = []
 	def __init__(self):
+		self.sprintArchive = []
 		print('archSprint created')
 
 	def addSprintToArchive(self, sprintProperties): # sprintProperties is a python dictionary [{'firstname':'john', 'lastname': 'thompson'}, {'firstname':'simy', 'lastname': 'madison'}] 
 		self.sprintArchive.append(sprint(sprintProperties))
-		pass
-
 
 class burndown:
 	pass
