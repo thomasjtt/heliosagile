@@ -1,4 +1,4 @@
-lass productBacklog:
+class productBacklog:
 	def __init__(self,AgileAddressBook=None,sprintArchive=None,PBForms=None, taskArchive = None):
 		self.AgileAddressBook = AgileAddressBook
 		self.sprintArchive = sprintArchive
@@ -17,12 +17,21 @@ class userstory:
 	def userstoryprinter(self):
 		print 'As a {user}, I want {goal}, so that {why}'.format(user= self.user, goal=self.goal, why=self.why)
 
+class sprint:
+	def __init__(self, sprintProperties):
+		self.sprint['name'] = sprintProperties['name']
+		print('archSprint created')
+
 class archSprint:
+
+	self.sprintArchive = []
 	def __init__(self):
 		print('archSprint created')
 
-class sprint:
-	pass
+	def addSprintToArchive(self, sprintProperties): # sprintProperties is a python dictionary [{'firstname':'john', 'lastname': 'thompson'}, {'firstname':'simy', 'lastname': 'madison'}] 
+		self.sprintArchive.append(sprint(sprintProperties))
+		pass
+
 
 class burndown:
 	pass
