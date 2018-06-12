@@ -1,6 +1,4 @@
 <html>
-
-<!-- Creating graphs -->
 <body>
 <div class="col-md-6">
                         <div class="card ">
@@ -24,16 +22,5 @@
                             </div>
                         </div>
                     </div>
-
-
-<!-- Creating Text Boxes -->
-<div class="form-group">
-    <label>Username</label>
-    <input class="form-control border-input" placeholder="ex: Eddy" type="text">
-</div>
-
-<!-- ADD NEXT CODE HERE -->
-
-
 </body>
 </html>
